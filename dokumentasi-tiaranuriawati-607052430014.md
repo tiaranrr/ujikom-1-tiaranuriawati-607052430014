@@ -36,4 +36,6 @@ Dokumentasi Ujikom 1 Jaringan telekomunikasi
 
 3. Berikut adalah hasil pengujian pada zoiper
 
+<img width="1366" height="768" alt="Screenshot (1128)" src="https://github.com/user-attachments/assets/994ac481-fe5e-4d7d-a11b-994c03b82a4e" />
+
    
